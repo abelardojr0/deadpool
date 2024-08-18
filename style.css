@@ -98,7 +98,8 @@ a:hover {
   background-color: #db3737;
   text-decoration: underline;
 }
-.categorias {
+
+.fotos {
   color: #161616;
   display: flex;
   justify-content: center;
@@ -110,7 +111,7 @@ a:hover {
   border-bottom: 5px solid #161616;
 }
 
-.categorias_titulo {
+.fotos_titulo {
   font-size: 45px;
   font-weight: bold;
   margin-bottom: 40px;
@@ -179,7 +180,7 @@ a:hover {
 }
 
 .sobre_infos {
-  background-color: rgba(255, 255, 255, 0.639);
+  background-color: rgba(255, 255, 255, 0.533);
   border: 5px solid #161616;
   max-width: 800px;
   display: flex;
@@ -229,3 +230,4 @@ a:hover {
   align-self: flex-end;
   color: rgb(175, 175, 175);
 }
+
